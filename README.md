@@ -1,2 +1,2 @@
 # zehnize.github.io
-Wellness Hotels
+wellness-hotel-vergleich
